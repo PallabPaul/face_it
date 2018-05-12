@@ -1,1 +1,1 @@
-# face_it
+Project as an Intel Student Ambassador for AI
