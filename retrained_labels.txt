@@ -1,0 +1,6 @@
+square
+triangle
+diamond
+oval
+round
+oblong
